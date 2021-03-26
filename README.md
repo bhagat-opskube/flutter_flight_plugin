@@ -1,4 +1,4 @@
-# flutter_test_package
+# flutter_flight_plugin
 
 A new Flutter package.
 
